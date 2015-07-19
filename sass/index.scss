@@ -28,9 +28,17 @@ section.download {
         color: #fff;
         margin: 0 1em;
 
+        a {
+            color:#fff;
+        }
+
         &.download {
             background:#fff;
             color:#1394f6;
+
+            a {
+                color:#1394f6;
+            }
         }
     }
 }
