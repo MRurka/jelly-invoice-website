@@ -1,4 +1,7 @@
 
+section.preview {
+	margin:0 0 150px 0;
+}
 .preview-slider {
 	width: calc(100% - 27%);
 	margin: -50% auto 0 auto;
@@ -6,7 +9,7 @@
 	z-index: 9;
 
 	.screen {
-		background-size: contain;
+		background-size: 115%;
 		background-position: center top;
 		background-repeat: no-repeat;
 		padding-bottom: 12.5%;
